@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+    <color name="red_pwd_indicator">#D63D41</color>
+    <color name="yellow_pwd_indicator">#FFCA28</color>
+    <color name="green_pwd_indicator">#419646</color>
+    <color name="grey_indicator">#803F3F3F</color>
+
+
+
+</resources>

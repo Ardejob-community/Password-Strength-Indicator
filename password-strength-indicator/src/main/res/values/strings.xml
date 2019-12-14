@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Password-Strength-Indicator</string>
+
+
+    <string name="weak">Weak</string>
+    <string name="fair">Fair</string>
+    <string name="strong">Strong</string>
+
 </resources>
