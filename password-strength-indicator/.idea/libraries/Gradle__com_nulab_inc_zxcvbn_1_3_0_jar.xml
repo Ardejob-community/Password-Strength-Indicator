@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.nulab-inc:zxcvbn:1.3.0@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.nulab-inc/zxcvbn/1.3.0/9087d5f33940346015e1c65d3b14028cc096a5f5/zxcvbn-1.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.nulab-inc/zxcvbn/1.3.0/58183d6a8a90aa0113b85ba1da92aa8b0e5e948b/zxcvbn-1.3.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.nulab-inc/zxcvbn/1.3.0/24a5195b8c0837b2ac06c4abca45fa96a79d42ef/zxcvbn-1.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
